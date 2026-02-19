@@ -1,5 +1,5 @@
 📋 Project Context: 
-In this project, I acted as a Data Analyst for a Real Estate Investment Trust (REIT). Theorganization aimed to expand its portfolio into residential real estate. My objective was to develop a data-driven model to accurately estimate market prices in King County, USA, based on property attributes like square footage, location, and structural features.
+In this project, I acted as a Data Analyst for a Real Estate Investment Trust (REIT). The organization aimed to expand its portfolio into residential real estate. My objective was to develop a data-driven model to accurately estimate market prices in King County, USA, based on property attributes like square footage, location, and structural features.
 
 🧪 Technical Implementation: 
 The project follows a rigorous data science workflow across several key stages:
